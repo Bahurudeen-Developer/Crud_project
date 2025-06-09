@@ -1,4 +1,4 @@
-# Employee Management CRUD Project
+# Employee Management CRUD Project Using Django
 
 ## Project Overview
 This is a simple Employee Management system built with Django.  
